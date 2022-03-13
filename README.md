@@ -16,6 +16,4 @@ Figure 1. Election Results
 
 
 ## Election-Audit Summary
-
-
-dd
+The central thesis behind an election is applicable to many scenarios. In this case, this same code can be utilized for other elections that may take place in different regions with different candidates. Should there be a desire to utilize this for a more expansive analysis, variables such as state, voter gender, and population densities could be added. To add such dimensions to this review, we could include additional 'if' statements to understand the votes per candidate in each location while we could add.
