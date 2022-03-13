@@ -5,6 +5,7 @@ The purpose of the analysis was to perform an analysis on an election that occur
 
 ## Election-Audit Results
 Figure 1. Election Results
+
 ![This is an image](https://github.com/mshedlosky/Election_Analysis/blob/main/Analysis/Figure1.png)
 
 - The votes that were cast in this congressional election totaled to 369, 711.
