@@ -5,6 +5,7 @@ The purpose of the analysis was to perform an analysis on an election that occur
 
 ## Election-Audit Results
 Figure 1. Election Results
+![This is an image](https://github.com/mshedlosky/Election_Analysis/blob/main/Analysis/Figure1.png)
 
 - The votes that were cast in this congressional election totaled to 369, 711.
 - The counties in the precinct consisted of Jefferson, Denver, and Arapahoe. 306,055 Of the votes and 82.8% originated from Denver, 38,855 of the votes and 10.5% from Jefferson, and 24,801 of the votes and 6.7% from Arapahoe, respectively. 
